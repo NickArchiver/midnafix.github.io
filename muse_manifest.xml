@@ -1,0 +1,264 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="midnaisarealbitch.com" resolutions="1x" timestamp="1761767749331">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="234129768" ref="index"/>
+    <file name="why-her-name-sucks.css" crc="3839022846" ref="why-her-name-sucks"/>
+    <file name="404.css" crc="4246837296" ref="404"/>
+    <file name="the-great-fairy.css" crc="333779427" ref="the-great-fairy"/>
+    <file name="navi.css" crc="4011359689" ref="navi"/>
+    <file name="b-bbut-reddit_.css" crc="3859481306" ref="b-bbut-reddit!"/>
+    <file name="gotta-be-worse.css" crc="357506776" ref="gotta-be-worse"/>
+    <file name="saria.css" crc="378994468" ref="saria"/>
+    <file name="deku.css" crc="3882768796" ref="deku"/>
+    <file name="mido.css" crc="4170611187" ref="mido"/>
+    <file name="i-love-midna__.css" crc="256163667" ref="i-love-midna!!"/>
+    <file name="why.css" crc="3854273739" ref="why"/>
+    <file name="princess-ruto.css" crc="4259346418" ref="princess-ruto"/>
+    <file name="3d-model-on-tv-set.css" crc="4048913251" ref="3d-model-on-tv-set"/>
+    <file name="saria-animated.css" crc="116606171" ref="saria-animated"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:why-her-name-sucks:404:b-bbut-reddit!:gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated"/>
+    <file name="museutils.js" crc="3939489907" ref="index:why-her-name-sucks:404:b-bbut-reddit!:gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated"/>
+    <file name="whatinput.js" crc="86476730" ref="index:why-her-name-sucks:404:b-bbut-reddit!:gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:why-her-name-sucks:404:b-bbut-reddit!:gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:why-her-name-sucks:404:b-bbut-reddit!:gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated"/>
+    <file name="require.js" crc="4177726516" ref="index:why-her-name-sucks:404:b-bbut-reddit!:gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated"/>
+  </folder>
+  <folder name="images">
+    <file name="u145-4.png" crc="446453838" ref="index"/>
+    <file name="logo.gif" crc="16907705" seo="true" ref="index:why-her-name-sucks:404:b-bbut-reddit!:gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated">
+      <caption webpage="404" alt=""/>
+      <caption webpage="i-love-midna!!" alt=""/>
+      <caption webpage="fuck-you-midna" alt=""/>
+      <caption webpage="b-bbut-reddit!" alt=""/>
+      <caption webpage="saria" alt=""/>
+      <caption webpage="princess-ruto" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="but-reddit-said" alt=""/>
+      <caption webpage="why" alt=""/>
+      <caption webpage="gotta-be-worse" alt=""/>
+      <caption webpage="why-her-name-sucks" alt=""/>
+      <caption webpage="saria-animated" alt=""/>
+      <caption webpage="the-great-fairy" alt=""/>
+      <caption webpage="deku" alt=""/>
+      <caption webpage="3d-model-on-tv-set" alt=""/>
+      <caption webpage="navi" alt=""/>
+      <caption webpage="mido" alt=""/>
+    </file>
+    <file name="u159-4.png" crc="290776784" ref="index"/>
+    <file name="u164-4.png" crc="4197850050" ref="index"/>
+    <file name="u167-4.png" crc="3879940451" ref="index"/>
+    <file name="u170-4.png" crc="182123055" ref="index"/>
+    <file name="u218-4.png" crc="304531730" ref="index"/>
+    <file name="u233-4.png" crc="4088547296" ref="index"/>
+    <file name="back.jpg" crc="3937211460" ref="why-her-name-sucks:404:b-bbut-reddit!:index">
+      <caption webpage="404" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="why-her-name-sucks" alt=""/>
+      <caption webpage="but-reddit-said" alt=""/>
+      <caption webpage="fuck-you-midna" alt=""/>
+      <caption webpage="b-bbut-reddit!" alt=""/>
+    </file>
+    <file name="u237-4.png" crc="403372779" ref="index"/>
+    <file name="u240-4.png" crc="139259076" ref="index"/>
+    <file name="u249-4.png" crc="3844776896" ref="index"/>
+    <file name="u254-4.png" crc="390667378" ref="index"/>
+    <file name="u257-4.png" crc="3914119902" ref="index"/>
+    <file name="u260-4.png" crc="3937119743" ref="index"/>
+    <file name="u263-4.png" crc="189614902" ref="index"/>
+    <file name="u266-4.png" crc="291791416" ref="index"/>
+    <file name="u271-4.png" crc="4027353529" ref="why-her-name-sucks"/>
+    <file name="u337-7.png" crc="147279059" ref="why-her-name-sucks"/>
+    <file name="midna_dumb_name.gif" crc="362882479" seo="true" ref="why-her-name-sucks">
+      <caption webpage="why-her-name-sucks" alt=""/>
+    </file>
+    <file name="u349-4.png" crc="436242610" ref="why-her-name-sucks"/>
+    <file name="u352-4.png" crc="4161605058" ref="why-her-name-sucks"/>
+    <file name="majora-27s_mask_artwork.gif" crc="3910786705" seo="true" ref="why-her-name-sucks">
+      <caption webpage="why-her-name-sucks" alt=""/>
+    </file>
+    <file name="286939.gif" crc="16882858" seo="true" ref="why-her-name-sucks">
+      <caption webpage="why-her-name-sucks" alt=""/>
+    </file>
+    <file name="u376-4.png" crc="500486782" ref="why-her-name-sucks"/>
+    <file name="u379-4.png" crc="121942599" ref="why-her-name-sucks"/>
+    <file name="u439-4.png" crc="4043685788" ref="b-bbut-reddit!"/>
+    <file name="u499-4.png" crc="3923666884" ref="b-bbut-reddit!"/>
+    <file name="u502-4.png" crc="4167263066" ref="b-bbut-reddit!"/>
+    <file name="u505-4.png" crc="305433756" ref="b-bbut-reddit!"/>
+    <file name="u508-4.png" crc="4056705938" ref="b-bbut-reddit!"/>
+    <file name="u511-4.png" crc="3959068354" ref="b-bbut-reddit!"/>
+    <file name="u514-4.png" crc="150563611" ref="b-bbut-reddit!"/>
+    <file name="u517-4.png" crc="140850276" ref="b-bbut-reddit!"/>
+    <file name="u529-4.png" crc="352680672" ref="b-bbut-reddit!"/>
+    <file name="u532-4.png" crc="4046266384" ref="b-bbut-reddit!"/>
+    <file name="u535-4.png" crc="3836413891" ref="b-bbut-reddit!"/>
+    <file name="u544-4.png" crc="133994414" ref="b-bbut-reddit!"/>
+    <file name="u545-4.png" crc="24650145" ref="b-bbut-reddit!"/>
+    <file name="u546-4.png" crc="4235109328" ref="b-bbut-reddit!"/>
+    <file name="hated-design-the-new-reddit-logo-on-mobile-what-the-fuck-is-v0-irffc4bc7u2e1.gif" crc="4014306079" seo="true" ref="b-bbut-reddit!">
+      <caption webpage="b-bbut-reddit!" alt=""/>
+      <caption webpage="but-reddit-said" alt=""/>
+    </file>
+    <file name="u579-4.png" crc="4093756905" ref="404"/>
+    <file name="u583-4.png" crc="4125133264" ref="404"/>
+    <file name="u639-4.png" crc="203351864" ref="404"/>
+    <file name="screen shot 2025-10-28 at 113302 pm.gif" crc="205306638" seo="true" ref="404">
+      <caption webpage="404" alt=""/>
+    </file>
+    <file name="u660-4.png" crc="12208717" ref="index"/>
+    <file name="u668-4.png" crc="3844776896" ref="404"/>
+    <file name="fuck_you_midna.png" crc="3914568426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="fuck-you-midna" alt=""/>
+    </file>
+    <file name="u694-4.png" crc="3844776896" ref="why-her-name-sucks"/>
+    <file name="x_midna.png" crc="3791180138" seo="true" ref="b-bbut-reddit!">
+      <caption webpage="b-bbut-reddit!" alt=""/>
+      <caption webpage="but-reddit-said" alt=""/>
+    </file>
+    <file name="u700-4.png" crc="3844776896" ref="b-bbut-reddit!"/>
+    <file name="u1297-4.png" crc="4080744606" ref="index"/>
+    <file name="u714-4.png" crc="54129544" ref="gotta-be-worse"/>
+    <file name="u811-4.png" crc="4119185274" ref="gotta-be-worse"/>
+    <file name="u814-4.png" crc="3810607970" ref="gotta-be-worse"/>
+    <file name="u817-4.png" crc="15076222" ref="gotta-be-worse"/>
+    <file name="u820-4.png" crc="4148461823" ref="gotta-be-worse"/>
+    <file name="u823-4.png" crc="4020398455" ref="gotta-be-worse"/>
+    <file name="u732-4.png" crc="3844776896" ref="gotta-be-worse"/>
+    <file name="back2.jpg" crc="3937211460" ref="gotta-be-worse:navi:deku:the-great-fairy:mido:saria:princess-ruto:i-love-midna!!:why:3d-model-on-tv-set:saria-animated">
+      <caption webpage="i-love-midna!!" alt=""/>
+      <caption webpage="saria-animated" alt=""/>
+      <caption webpage="the-great-fairy" alt=""/>
+      <caption webpage="gotta-be-worse" alt=""/>
+      <caption webpage="deku" alt=""/>
+      <caption webpage="princess-ruto" alt=""/>
+      <caption webpage="3d-model-on-tv-set" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mido" alt=""/>
+      <caption webpage="why" alt=""/>
+      <caption webpage="saria" alt=""/>
+      <caption webpage="navi" alt=""/>
+    </file>
+    <file name="u885-4.png" crc="3805868998" ref="navi"/>
+    <file name="navi1.gif" crc="3906386226" seo="true" ref="navi">
+      <caption webpage="navi" alt=""/>
+    </file>
+    <file name="u946-4.png" crc="81949098" ref="navi"/>
+    <file name="u962-4.png" crc="4083120476" ref="navi"/>
+    <file name="verdict_navi.gif" crc="250684208" seo="true" ref="navi">
+      <caption webpage="navi" alt=""/>
+    </file>
+    <file name="u888-4.png" crc="3844776896" ref="navi"/>
+    <file name="u999-4.png" crc="4061363234" ref="deku"/>
+    <file name="u1011-4.png" crc="4083120476" ref="deku"/>
+    <file name="deku_scrub.gif" crc="3883476596" seo="true" ref="deku">
+      <caption webpage="deku" alt=""/>
+    </file>
+    <file name="deku_scrub_scshot.gif" crc="284456727" seo="true" ref="deku">
+      <caption webpage="deku" alt=""/>
+    </file>
+    <file name="verdict_deku.gif" crc="500590598" seo="true" ref="deku">
+      <caption webpage="deku" alt=""/>
+    </file>
+    <file name="u1002-4.png" crc="3844776896" ref="deku"/>
+    <file name="u1102-4.png" crc="504976776" ref="the-great-fairy"/>
+    <file name="u1108-4.png" crc="4083120476" ref="the-great-fairy"/>
+    <file name="great_fairy_tp.gif" crc="253091278" seo="true" ref="the-great-fairy">
+      <caption webpage="the-great-fairy" alt=""/>
+    </file>
+    <file name="great_fairly_oot.gif" crc="254742397" seo="true" ref="the-great-fairy">
+      <caption webpage="the-great-fairy" alt=""/>
+    </file>
+    <file name="midna_ass_shot.gif" crc="3934501150" seo="true" ref="the-great-fairy">
+      <caption webpage="the-great-fairy" alt=""/>
+    </file>
+    <file name="verdict_tgf.gif" crc="4084798226" seo="true" ref="the-great-fairy">
+      <caption webpage="the-great-fairy" alt=""/>
+    </file>
+    <file name="u1105-4.png" crc="3844776896" ref="the-great-fairy"/>
+    <file name="u1236-4.png" crc="4067162063" ref="mido"/>
+    <file name="u1242-4.png" crc="4083120476" ref="mido"/>
+    <file name="mido_oot.gif" crc="4069961655" seo="true" ref="mido">
+      <caption webpage="mido" alt=""/>
+    </file>
+    <file name="mido_scshot1.gif" crc="320469452" seo="true" ref="mido">
+      <caption webpage="mido" alt=""/>
+    </file>
+    <file name="mid_scshot2.gif" crc="3949834309" seo="true" ref="mido">
+      <caption webpage="mido" alt=""/>
+    </file>
+    <file name="verdict_mido.gif" crc="492573141" seo="true" ref="mido">
+      <caption webpage="mido" alt=""/>
+    </file>
+    <file name="u1239-4.png" crc="3844776896" ref="mido"/>
+    <file name="u1358-4.png" crc="3817843534" ref="saria"/>
+    <file name="u1363-4.png" crc="4083120476" ref="saria"/>
+    <file name="saria1.gif" crc="497204170" seo="true" ref="saria">
+      <caption webpage="saria" alt=""/>
+    </file>
+    <file name="verdict_saria.gif" crc="509940772" seo="true" ref="saria">
+      <caption webpage="saria" alt=""/>
+    </file>
+    <file name="u1361-4.png" crc="3844776896" ref="saria"/>
+    <file name="u1578-4.png" crc="4252949582" ref="gotta-be-worse"/>
+    <file name="u1481-4.png" crc="4068228069" ref="princess-ruto"/>
+    <file name="u1487-4.png" crc="4083120476" ref="princess-ruto"/>
+    <file name="ruto_child.gif" crc="415916157" seo="true" ref="princess-ruto">
+      <caption webpage="princess-ruto" alt=""/>
+    </file>
+    <file name="ruto_adult.gif" crc="259514528" seo="true" ref="princess-ruto">
+      <caption webpage="princess-ruto" alt=""/>
+    </file>
+    <file name="verdict_ruto.gif" crc="4289915302" seo="true" ref="princess-ruto">
+      <caption webpage="princess-ruto" alt=""/>
+    </file>
+    <file name="u1484-4.png" crc="3844776896" ref="princess-ruto"/>
+    <file name="u1594-4.png" crc="524599618" ref="i-love-midna!!"/>
+    <file name="u1728-4.png" crc="67462511" ref="i-love-midna!!"/>
+    <file name="u1597-4.png" crc="497340505" ref="i-love-midna!!"/>
+    <file name="u1744-4.png" crc="3884615646" ref="3d-model-on-tv-set"/>
+    <file name="midna_gc_button.gif" crc="25535715" seo="true" ref="3d-model-on-tv-set">
+      <caption webpage="index" alt=""/>
+      <caption webpage="3d-model-on-tv-set" alt=""/>
+    </file>
+    <file name="u1835-4.png" crc="4031633312" ref="3d-model-on-tv-set"/>
+    <file name="u1839-14.png" crc="453907841" ref="3d-model-on-tv-set"/>
+    <file name="u1848-4.png" crc="257505711" ref="3d-model-on-tv-set"/>
+    <file name="u1851-4.png" crc="4082830511" ref="3d-model-on-tv-set"/>
+    <file name="true_midna.gif" crc="179092061" seo="true" ref="3d-model-on-tv-set">
+      <caption webpage="index" alt=""/>
+      <caption webpage="3d-model-on-tv-set" alt=""/>
+    </file>
+    <file name="u1747-4.png" crc="3844776896" ref="3d-model-on-tv-set"/>
+    <file name="midna_icon_2d.gif" crc="26556300" seo="true" ref="3d-model-on-tv-set">
+      <caption webpage="index" alt=""/>
+      <caption webpage="3d-model-on-tv-set" alt=""/>
+    </file>
+    <file name="u1882-4.png" crc="4278775437" ref="why"/>
+    <file name="u1885-4.png" crc="340366335" ref="why"/>
+    <file name="saria_scshot.gif" crc="4082966683" seo="true" ref="saria">
+      <caption webpage="saria" alt=""/>
+    </file>
+    <file name="u1992-4.png" crc="438799915" ref="saria-animated"/>
+    <file name="link_running_anim.gif" crc="94723510" seo="true" ref="saria-animated">
+      <caption webpage="saria-animated" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="120801948" seo="true" mt="1761765663882" redirect="true"/>
+  <file name="why-her-name-sucks.html" crc="4029954680" seo="true" mt="1761765701208" redirect="true"/>
+  <file name="404.html" crc="4125320737" seo="true" mt="1761765352819" redirect="true"/>
+  <file name="b-bbut-reddit!.html" crc="116333313" seo="true" mt="1761765337797" redirect="true"/>
+  <file name="gotta-be-worse.html" crc="204846632" seo="true" mt="1761765328005" redirect="true"/>
+  <file name="navi.html" crc="4291037295" seo="true" mt="1761765321446" redirect="true"/>
+  <file name="deku.html" crc="3770601290" seo="true" mt="1761765308931" redirect="true"/>
+  <file name="the-great-fairy.html" crc="3888148842" seo="true" mt="1761765301714" redirect="true"/>
+  <file name="mido.html" crc="484502480" seo="true" mt="1761765287231" redirect="true"/>
+  <file name="saria.html" crc="4024761467" seo="true" mt="1761766988237" redirect="true"/>
+  <file name="princess-ruto.html" crc="4073567408" seo="true" mt="1761765214740" redirect="true"/>
+  <file name="i-love-midna!!.html" crc="56029877" seo="true" mt="1761765230866" redirect="true"/>
+  <file name="why.html" crc="4042890138" seo="true" mt="1761765250698" redirect="true"/>
+  <file name="3d-model-on-tv-set.html" crc="4241225910" seo="true" mt="1761765243460" redirect="true"/>
+  <file name="saria-animated.html" crc="510309164" seo="true" mt="1761766816824" redirect="true"/>
+</manifest>
