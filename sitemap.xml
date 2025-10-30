@@ -13,6 +13,27 @@
     </image:image>
   </url>
   <url>
+    <loc>http://midnaisarealbitch.com/mido.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/mido_oot.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/mido_scshot1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/mid_scshot2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/verdict_mido.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://midnaisarealbitch.com/why-her-name-sucks.html</loc>
     <lastmod>2025-10-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -121,7 +142,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://midnaisarealbitch.com/mido.html</loc>
+    <loc>http://midnaisarealbitch.com/3d-model-on-tv-set.html</loc>
     <lastmod>2025-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -129,16 +150,13 @@
       <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/mido_oot.gif</image:loc>
+      <image:loc>http://midnaisarealbitch.com/images/midna_gc_button.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/mido_scshot1.gif</image:loc>
+      <image:loc>http://midnaisarealbitch.com/images/true_midna.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/mid_scshot2.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/verdict_mido.gif</image:loc>
+      <image:loc>http://midnaisarealbitch.com/images/midna_icon_2d.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -157,6 +175,9 @@
     </image:image>
     <image:image>
       <image:loc>http://midnaisarealbitch.com/images/saria_scshot.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/7ed74abf615d5a085a802a975870ffb1159d56d4_hq.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -187,6 +208,18 @@
     </image:image>
   </url>
   <url>
+    <loc>http://midnaisarealbitch.com/saria-animated.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://midnaisarealbitch.com/images/mpeg.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://midnaisarealbitch.com/why.html</loc>
     <lastmod>2025-10-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -196,33 +229,27 @@
     </image:image>
   </url>
   <url>
-    <loc>http://midnaisarealbitch.com/3d-model-on-tv-set.html</loc>
+    <loc>http://midnaisarealbitch.com/credits.html</loc>
     <lastmod>2025-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/midna_gc_button.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/true_midna.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/midna_icon_2d.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://midnaisarealbitch.com/saria-animated.html</loc>
+    <loc>http://midnaisarealbitch.com/downloads.html</loc>
     <lastmod>2025-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://midnaisarealbitch.com/images/logo.gif</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://midnaisarealbitch.com/images/link_running_anim.gif</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://midnaisarealbitch.com/assets/link_running_saria.mpeg</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
